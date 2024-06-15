@@ -1,3 +1,7 @@
+Planning to go out with friends and confused while paying bills and splitting? Use Splitwise2.0 and forget about the bills! Let the app take care of the chaotic process for you.
+Deployed here - https://splitwise2.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
